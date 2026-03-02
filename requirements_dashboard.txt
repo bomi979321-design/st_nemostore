@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+matplotlib
+# 배포 환경(Linux)에서 한글 폰트 문제를 해결하려면 아래 패키지가 유용합니다.
+koreanize-matplotlib

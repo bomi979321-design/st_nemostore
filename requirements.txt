@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+matplotlib
+koreanize-matplotlib
+beautifulsoup4
+lxml
+python-dateutil
+setuptools
